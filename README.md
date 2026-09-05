@@ -343,7 +343,7 @@ This displays the custom HTML webpage created for the project.
 
 Shows the project directory and its files.
 
-![Project Folder](screenshots/1. Project-folder.png)
+![Project Folder](screenshots/1.Project-folder.png)
 
 ---
 
