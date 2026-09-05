@@ -82,9 +82,8 @@ docker-nginx-project/
     ├── 08-index-html.png
     ├── 09-custom-docker-image.png
     ├── 10-both-containers.png
-    ├── 11-custom-container.png
-    ├── 12-custom-website.png
-    └── 13-final-project-files.png
+    ├── 11-custom-website.png
+    
 ```
 
 ---
