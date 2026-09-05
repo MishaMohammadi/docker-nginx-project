@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Docker Nginx Project</title>
+
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: Arial, sans-serif;
+            min-height: 100vh;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            background: linear-gradient(135deg, #667eea, #764ba2);
+            color: white;
+        }
+
+        .container {
+            width: 90%;
+            max-width: 700px;
+            text-align: center;
+            padding: 50px 35px;
+            background: rgba(255, 255, 255, 0.12);
+            border-radius: 20px;
+            box-shadow: 0 10px 30px rgba(0, 0, 0, 0.3);
+        }
+
+        h1 {
+            font-size: 42px;
+            margin-bottom: 15px;
+        }
+
+        .subtitle {
+            font-size: 20px;
+            margin-bottom: 30px;
+        }
+
+        .card {
+            padding: 25px;
+            background: rgba(255, 255, 255, 0.15);
+            border-radius: 15px;
+            text-align: left;
+        }
+
+        .card p {
+            margin: 12px 0;
+            font-size: 17px;
+        }
+
+        .status {
+            display: inline-block;
+            margin-top: 25px;
+            padding: 12px 25px;
+            background: #2ecc71;
+            border-radius: 25px;
+            font-weight: bold;
+        }
+
+        footer {
+            margin-top: 30px;
+            font-size: 14px;
+            opacity: 0.8;
+        }
+    </style>
+</head>
+
+<body>
+
+    <div class="container">
+
+        <h1>Docker + Nginx</h1>
+
+        <p class="subtitle">
+            My first containerized web application
+        </p>
+
+        <div class="card">
+
+            <p><strong>Web Server:</strong> Nginx</p>
+
+            <p><strong>Container Platform:</strong> Docker</p>
+
+            <p><strong>Cloud Platform:</strong> Amazon EC2</p>
+
+            <p><strong>Port Mapping:</strong> 8080 → 80</p>
+
+        </div>
+
+        <div class="status">
+            Container Running Successfully
+        </div>
+
+        <footer>
+            Docker & DevOps Practice Project
+        </footer>
+
+    </div>
+
+</body>
+</html>
