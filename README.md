@@ -343,7 +343,7 @@ This displays the custom HTML webpage created for the project.
 
 Shows the project directory and its files.
 
-![Project Folder](screenshots/1-project-folder.png)
+![Project Folder](screenshots/01-project-folder.png)
 
 ---
 
@@ -351,7 +351,7 @@ Shows the project directory and its files.
 
 Shows Docker version, Docker information, and Docker disk usage.
 
-![Docker Verification](screenshots/2-docker-verification.png)
+![Docker Verification](screenshots/02-docker-verification.png)
 
 ---
 
@@ -359,7 +359,7 @@ Shows Docker version, Docker information, and Docker disk usage.
 
 Shows the official Nginx Docker image downloaded using Docker.
 
-![Nginx Image](screenshots/3-nginx-image.png)
+![Nginx Image](screenshots/03-nginx-image.png)
 
 ---
 
@@ -367,7 +367,7 @@ Shows the official Nginx Docker image downloaded using Docker.
 
 Shows the inbound rules configured for SSH, HTTP, and port 8080.
 
-![Security Group](screenshots/4-security-group.png)
+![Security Group](screenshots/04-security-group.png)
 
 ---
 
@@ -375,7 +375,7 @@ Shows the inbound rules configured for SSH, HTTP, and port 8080.
 
 Shows the standard Nginx container running on port 80.
 
-![Nginx Container](screenshots/5-nginx-container.png)
+![Nginx Container](screenshots/05-nginx-container.png)
 
 ---
 
@@ -383,7 +383,7 @@ Shows the standard Nginx container running on port 80.
 
 Shows the default Nginx welcome page running from the standard container.
 
-![Default Nginx Page](screenshots/6-default-nginx-page.png)
+![Default Nginx Page](screenshots/06-default-nginx-page.png)
 
 ---
 
@@ -391,7 +391,7 @@ Shows the default Nginx welcome page running from the standard container.
 
 Shows the Dockerfile used to create the custom Nginx image.
 
-![Dockerfile](screenshots/7-dockerfile.png)
+![Dockerfile](screenshots/07-dockerfile.png)
 
 ---
 
@@ -399,7 +399,7 @@ Shows the Dockerfile used to create the custom Nginx image.
 
 Shows the custom HTML webpage used by the Nginx container.
 
-![Index HTML](screenshots/8-index-html.png)
+![Index HTML](screenshots/08-index-html.png)
 
 ---
 
@@ -407,7 +407,7 @@ Shows the custom HTML webpage used by the Nginx container.
 
 Shows the custom `nginx2` Docker image created using the Dockerfile.
 
-![Custom Docker Image](screenshots/9-custom-docker-image.png)
+![Custom Docker Image](screenshots/09-custom-docker-image.png)
 
 ---
 
