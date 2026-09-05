@@ -376,7 +376,7 @@ Shows the inbound rules configured for SSH, HTTP, and port 8080.
 
 Shows the standard Nginx container running on port 80.
 
-![Nginx Container](screenshots/05-nginx-container.png)
+![Nginx Container](screenshots/05- nginx-container.png)
 
 ---
 
@@ -423,14 +423,13 @@ Shows both Nginx containers running simultaneously:
 
 ---
 
-## 12. Custom Website
+## 11. Custom Website
 
 Shows the final custom webpage served by the Docker container.
 
 ![Custom Website](screenshots/11. custom-website.png)
 
 ---
-
 
 
 # 📊 Docker Commands Used
