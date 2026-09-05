@@ -351,7 +351,7 @@ Shows the project directory and its files.
 
 Shows Docker version, Docker information, and Docker disk usage.
 
-![Docker Verification](screenshots/2. Docker-verification.png)
+![Docker Verification](screenshots/2.Docker-verification.png)
 
 ---
 
@@ -359,7 +359,7 @@ Shows Docker version, Docker information, and Docker disk usage.
 
 Shows the official Nginx Docker image downloaded using Docker.
 
-![Nginx Image](screenshots/3. nginx-image.png)
+![Nginx Image](screenshots/3.nginx-image.png)
 
 ---
 
@@ -367,7 +367,7 @@ Shows the official Nginx Docker image downloaded using Docker.
 
 Shows the inbound rules configured for SSH, HTTP, and port 8080.
 
-![Security Group](screenshots/4. Security-group.png)
+![Security Group](screenshots/4.Security-group.png)
 
 ---
 
@@ -375,7 +375,7 @@ Shows the inbound rules configured for SSH, HTTP, and port 8080.
 
 Shows the standard Nginx container running on port 80.
 
-![Nginx Container](screenshots/05- nginx-container.png)
+![Nginx Container](screenshots/05-nginx-container.png)
 
 ---
 
@@ -383,7 +383,7 @@ Shows the standard Nginx container running on port 80.
 
 Shows the default Nginx welcome page running from the standard container.
 
-![Default Nginx Page](screenshots/6. default-nginx-page.png)
+![Default Nginx Page](screenshots/6.default-nginx-page.png)
 
 ---
 
@@ -391,7 +391,7 @@ Shows the default Nginx welcome page running from the standard container.
 
 Shows the Dockerfile used to create the custom Nginx image.
 
-![Dockerfile](screenshots/7. Dockerfile.png)
+![Dockerfile](screenshots/7.Dockerfile.png)
 
 ---
 
@@ -399,7 +399,7 @@ Shows the Dockerfile used to create the custom Nginx image.
 
 Shows the custom HTML webpage used by the Nginx container.
 
-![Index HTML](screenshots/8. index-html.png)
+![Index HTML](screenshots/8.index-html.png)
 
 ---
 
@@ -407,7 +407,7 @@ Shows the custom HTML webpage used by the Nginx container.
 
 Shows the custom `nginx2` Docker image created using the Dockerfile.
 
-![Custom Docker Image](screenshots/9. custom-docker-image.png)
+![Custom Docker Image](screenshots/9.custom-docker-image.png)
 
 ---
 
@@ -418,7 +418,7 @@ Shows both Nginx containers running simultaneously:
 * Standard Nginx → Port 80
 * Custom Nginx → Port 8080
 
-![Both Containers](screenshots/10. Both-containers.png)
+![Both Containers](screenshots/10.Both-containers.png)
 
 ---
 
@@ -426,7 +426,7 @@ Shows both Nginx containers running simultaneously:
 
 Shows the final custom webpage served by the Docker container.
 
-![Custom Website](screenshots/11. custom-website.png)
+![Custom Website](screenshots/11.custom-website.png)
 
 ---
 
